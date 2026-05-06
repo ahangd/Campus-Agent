@@ -1,0 +1,7 @@
+{
+  "/api/dify/chat/route": "/api/dify/chat",
+  "/api/dify/parameters/route": "/api/dify/parameters",
+  "/_not-found/page": "/_not-found",
+  "/(marketing)/page": "/",
+  "/chat/page": "/chat"
+}

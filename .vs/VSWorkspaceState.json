@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\api",
+    "\\app\\api\\dify",
+    "\\app\\api\\dify\\chat",
+    "\\app\\api\\dify\\parameters",
+    "\\components",
+    "\\components\\ui"
+  ],
+  "PreviewInSolutionExplorer": false
+}

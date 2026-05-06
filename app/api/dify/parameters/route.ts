@@ -10,7 +10,8 @@ export async function GET() {
   }
 
   try {
-    const upstream = await fetch(`${base}/parameters`, {
+    const user = "web-user"
+    const upstream = await fetch(`${base}/parameters?user=${encodeURIComponent(user)}`, {
       headers: {
         Authorization: `Bearer ${apiKey}`,
       },

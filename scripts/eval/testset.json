@@ -1,0 +1,352 @@
+[
+  {
+    "id": "faq-001",
+    "question": "校园卡丢了以后一般怎么处理？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["挂失", "补办", "校园卡"],
+    "scope": "in_scope"
+  },
+  {
+    "id": "faq-002",
+    "question": "选课一般在什么时候开始？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["选课", "时间", "通知"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "faq-003",
+    "question": "缓考申请通常要提前多久提交？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["缓考", "考试前", "提交"],
+    "scope": "in_scope"
+  },
+  {
+    "id": "faq-004",
+    "question": "图书借阅超期会有什么影响？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["超期", "借阅", "归还"],
+    "scope": "in_scope"
+  },
+  {
+    "id": "faq-005",
+    "question": "学生证补办要去哪里办理？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["学生证", "补办", "办理"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "faq-006",
+    "question": "宿舍断电之后怎么申请恢复供电？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["断电", "申请", "宿舍"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "faq-007",
+    "question": "办理请假通常需要哪些材料？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["请假", "材料", "办理"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "faq-008",
+    "question": "校园网密码忘记了该怎么办？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["校园网", "密码", "重置"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "faq-009",
+    "question": "奖学金评定结果一般在哪里查看？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["奖学金", "查看", "结果"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "faq-010",
+    "question": "毕业生离校手续通常包括哪些内容？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["离校", "手续", "毕业生"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "faq-011",
+    "question": "教务系统登不上去怎么处理？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["教务系统", "登录", "处理"],
+    "scope": "partial_scope"
+  },
+  {
+    "id": "faq-012",
+    "question": "考试冲突的时候可以申请调整吗？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["考试", "冲突", "申请"],
+    "scope": "partial_scope"
+  },
+  {
+    "id": "faq-013",
+    "question": "第二课堂学分不够会影响毕业吗？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["第二课堂", "学分", "毕业"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "faq-014",
+    "question": "成绩复核一般什么时候可以申请？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["成绩", "复核", "申请"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "faq-015",
+    "question": "学籍证明通常在哪里开具？",
+    "expectedSourceKind": "faq",
+    "expectedKeywords": ["学籍证明", "开具", "办理"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "reg-001",
+    "question": "学校对于缓考一般是怎么规定的？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["缓考", "申请", "特殊原因"],
+    "scope": "in_scope"
+  },
+  {
+    "id": "reg-002",
+    "question": "图书馆使用规范里对馆内秩序有什么要求？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["保持安静", "占座", "图书馆"],
+    "scope": "in_scope"
+  },
+  {
+    "id": "reg-003",
+    "question": "学生手册里对旷课一般是怎么规定的？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["旷课", "规定", "学生手册"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "reg-004",
+    "question": "空教室自习有没有相关规定？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["空闲教室", "自习", "规定"],
+    "scope": "in_scope"
+  },
+  {
+    "id": "reg-005",
+    "question": "宿舍管理规定里夜不归宿怎么处理？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["宿舍", "夜不归宿", "处理"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "reg-006",
+    "question": "奖学金评定办法对综合测评有什么要求？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["奖学金", "综合测评", "要求"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "reg-007",
+    "question": "转专业管理办法里对成绩排名有要求吗？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["转专业", "成绩", "排名"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "reg-008",
+    "question": "请问请销假制度里对请假时长有限制吗？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["请销假", "时长", "制度"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "reg-009",
+    "question": "学位授予规定里对毕业设计有什么要求？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["学位授予", "毕业设计", "要求"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "reg-010",
+    "question": "学校关于图书逾期赔偿有没有明确规定？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["图书", "逾期", "赔偿"],
+    "scope": "partial_scope"
+  },
+  {
+    "id": "reg-011",
+    "question": "研究生培养方案对开题时间一般怎么规定？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["开题", "培养方案", "时间"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "reg-012",
+    "question": "学校对学生使用实验设备是否有审批制度？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["实验设备", "审批", "制度"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "reg-013",
+    "question": "违纪处分条例里对作弊替考怎么界定？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["违纪处分", "替考", "界定"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "reg-014",
+    "question": "学生宿舍管理制度中可以使用大功率电器吗？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["宿舍", "大功率电器", "管理制度"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "reg-015",
+    "question": "教室借用管理规定里对申请时间有什么要求？",
+    "expectedSourceKind": "regulations",
+    "expectedKeywords": ["教室借用", "申请时间", "规定"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "proc-001",
+    "question": "缓考申请的具体流程是什么？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["登录教务系统", "上传材料", "审核"],
+    "scope": "in_scope"
+  },
+  {
+    "id": "proc-002",
+    "question": "开具在读证明需要怎么操作？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["在读证明", "操作", "开具"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "proc-003",
+    "question": "图书馆借阅证异常后怎么处理？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["图书馆", "借阅证", "处理流程"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "proc-004",
+    "question": "宿舍报修一般怎么提交？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["报修系统", "工单", "宿舍"],
+    "scope": "in_scope"
+  },
+  {
+    "id": "proc-005",
+    "question": "办理休学需要走哪些步骤？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["休学", "步骤", "办理"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "proc-006",
+    "question": "申请奖学金通常要经过哪些流程？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["奖学金", "流程", "申请"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "proc-007",
+    "question": "补办校园卡的办理流程是什么？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["挂失", "补办申请", "领取新卡"],
+    "scope": "in_scope"
+  },
+  {
+    "id": "proc-008",
+    "question": "学生证丢失以后补办步骤有哪些？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["学生证", "补办", "步骤"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "proc-009",
+    "question": "转专业申请流程一般分几步？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["转专业", "申请流程", "步骤"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "proc-010",
+    "question": "借用教室需要按什么流程走？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["借用教室", "流程", "申请"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "proc-011",
+    "question": "毕业离校手续怎么办理？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["毕业", "离校手续", "办理"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "proc-012",
+    "question": "申请贫困认定一般有哪些环节？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["贫困认定", "环节", "申请"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "proc-013",
+    "question": "校内活动报备需要经过哪些审批？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["活动报备", "审批", "流程"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "proc-014",
+    "question": "我要申请成绩复核，流程是怎样的？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["成绩复核", "流程", "申请"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "proc-015",
+    "question": "宿舍调换通常怎么申请？",
+    "expectedSourceKind": "service_process",
+    "expectedKeywords": ["宿舍调换", "申请", "流程"],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "none-001",
+    "question": "今天天气怎么样？",
+    "expectedSourceKind": "none",
+    "expectedKeywords": [],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "none-002",
+    "question": "帮我写一首关于春天的诗。",
+    "expectedSourceKind": "none",
+    "expectedKeywords": [],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "none-003",
+    "question": "你觉得哪部电影最好看？",
+    "expectedSourceKind": "none",
+    "expectedKeywords": [],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "none-004",
+    "question": "给我讲一个笑话。",
+    "expectedSourceKind": "none",
+    "expectedKeywords": [],
+    "scope": "out_of_scope"
+  },
+  {
+    "id": "none-005",
+    "question": "1 加 1 等于几？",
+    "expectedSourceKind": "none",
+    "expectedKeywords": [],
+    "scope": "out_of_scope"
+  }
+]

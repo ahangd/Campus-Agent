@@ -1,0 +1,51 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-99ab5e75640b9263.js",
+      "static/chunks/1acdb12c-e48c5dd6a5105f46.js",
+      "static/chunks/575-2fbdb12ab4570d40.js",
+      "static/chunks/main-app-2e07285d8d8a5384.js",
+      "static/chunks/app/_not-found/page-bfad25aec86953ec.js"
+    ],
+    "/api/dify/chat/route": [
+      "static/chunks/webpack-99ab5e75640b9263.js",
+      "static/chunks/1acdb12c-e48c5dd6a5105f46.js",
+      "static/chunks/575-2fbdb12ab4570d40.js",
+      "static/chunks/main-app-2e07285d8d8a5384.js",
+      "static/chunks/app/api/dify/chat/route-1a0d513e1de68322.js"
+    ],
+    "/api/dify/parameters/route": [
+      "static/chunks/webpack-99ab5e75640b9263.js",
+      "static/chunks/1acdb12c-e48c5dd6a5105f46.js",
+      "static/chunks/575-2fbdb12ab4570d40.js",
+      "static/chunks/main-app-2e07285d8d8a5384.js",
+      "static/chunks/app/api/dify/parameters/route-1b76347372c1c9a1.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-99ab5e75640b9263.js",
+      "static/chunks/1acdb12c-e48c5dd6a5105f46.js",
+      "static/chunks/575-2fbdb12ab4570d40.js",
+      "static/chunks/main-app-2e07285d8d8a5384.js",
+      "static/css/1c685beec0ec148c.css",
+      "static/chunks/app/layout-1510f6e6d44f3dfe.js"
+    ],
+    "/(marketing)/page": [
+      "static/chunks/webpack-99ab5e75640b9263.js",
+      "static/chunks/1acdb12c-e48c5dd6a5105f46.js",
+      "static/chunks/575-2fbdb12ab4570d40.js",
+      "static/chunks/main-app-2e07285d8d8a5384.js",
+      "static/chunks/480-26272d559326ec1b.js",
+      "static/chunks/508-f44765133a1b52e4.js",
+      "static/chunks/app/(marketing)/page-15ac03754d94502f.js"
+    ],
+    "/chat/page": [
+      "static/chunks/webpack-99ab5e75640b9263.js",
+      "static/chunks/1acdb12c-e48c5dd6a5105f46.js",
+      "static/chunks/575-2fbdb12ab4570d40.js",
+      "static/chunks/main-app-2e07285d8d8a5384.js",
+      "static/chunks/480-26272d559326ec1b.js",
+      "static/chunks/139-a0b364daeb5120f8.js",
+      "static/chunks/app/chat/page-546f84db6ea9cc7c.js"
+    ]
+  }
+}

@@ -5,6 +5,7 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
+    "eval:run": "node --experimental-strip-types scripts/eval/run-eval.ts",
     "lint": "next lint",
     "start": "next start"
   },
@@ -44,6 +45,7 @@
     "cmdk": "1.0.4",
     "date-fns": "4.1.0",
     "embla-carousel-react": "8.5.1",
+    "framer-motion": "^12.38.0",
     "geist": "latest",
     "input-otp": "1.4.1",
     "lucide-react": "^0.454.0",

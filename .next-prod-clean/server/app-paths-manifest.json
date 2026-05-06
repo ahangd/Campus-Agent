@@ -1,0 +1,7 @@
+{
+  "/api/dify/chat/route": "app/api/dify/chat/route.js",
+  "/api/dify/parameters/route": "app/api/dify/parameters/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(marketing)/page": "app/(marketing)/page.js",
+  "/chat/page": "app/chat/page.js"
+}
